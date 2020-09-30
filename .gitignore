@@ -1,3 +1,5 @@
-src/test/tests/.pytest_cache/
-allure_result_folder/
-allure-report/
+src/test/tests/.pytest_cache
+.pytest_cache
+allure_result_folder
+allure-report
+venv
